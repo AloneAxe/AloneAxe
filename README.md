@@ -2,7 +2,7 @@
   <br><br>
   <samp>
     <br>
-    <br><br>:coke: Take a look at my stats :P<br><br>
+    <br><br>Hi There! Take a look at my stats <br><br>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=AloneAxe&&show_icons=true&&theme=tokyonight" />
   </samp>
 </p>
